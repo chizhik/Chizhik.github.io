@@ -1,3 +1,5 @@
+![avatar](https://vk.com/tortay?z=photo34415681_344672384%2Falbum34415681_0%2Frev)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Chizhik/Chizhik.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
