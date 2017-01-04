@@ -1,4 +1,4 @@
-![avatar](https://github.com/Chizhik/Chizhik.github.io/blob/master/photos/avatar.jpg)
+![avatar](https://raw.githubusercontent.com/Chizhik/Chizhik.github.io/master/photos/avatar.jpg)
 
 ## Welcome to GitHub Pages
 
