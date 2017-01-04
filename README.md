@@ -1,4 +1,4 @@
-![avatar](https://pp.vk.me/c624627/v624627681/b92f/7a3utLFJFvk.jpg)
+![avatar](https://github.com/Chizhik/Chizhik.github.io/blob/master/photos/avatar.jpg)
 
 ## Welcome to GitHub Pages
 
