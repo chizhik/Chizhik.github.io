@@ -1,4 +1,4 @@
-![avatar](https://vk.com/tortay?z=photo34415681_344672384%2Falbum34415681_0%2Frev)
+![avatar](https://pp.vk.me/c624627/v624627681/b92f/7a3utLFJFvk.jpg)
 
 ## Welcome to GitHub Pages
 
