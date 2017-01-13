@@ -3,7 +3,9 @@ layout: page
 title: About
 ---
 
-<img src="/assets/pictures/avatar.jpg" alt="Self" style="width: 300px;"/>
+<center>
+	<img src="/assets/pictures/avatar.jpg" alt="Self" style="width: 300px;"/>
+</center>
 
 <!--
 <p class="message">
