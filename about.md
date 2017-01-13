@@ -33,7 +33,7 @@ Welcome to my pages! I'm Alisher Tortay. I am currently a junior undergraduate s
 		<tr>
 			<th>2014 ~ 2018</th>
 			<th>Bachelor</th>
-			<th>Korea Advanced Institute of Science and Technology, Rupublic of Korea</th>
+			<th>Korea Advanced Institute of Science and Technology, Republic of Korea</th>
 			<th>Computer Science</th>
 		</tr>
 	</tbody>
