@@ -32,7 +32,7 @@ Due to the lack of availability of Minesweeper frameworks capable of implementin
 
 We used supervised learning model to implement this agent. We designed three feed-forward neural networks with different sizes. Input is subboard of size `5x5`. A tile has 12 possible values: uncovered, flag, out-of-board, and integers from 0 to 8. Each tile in this subboard is represented using one hot encoding. Output is one number between 0 and 1: `probability that central tile of the 5x5 subboard does not contain a mine`. We trained our networks with with following values: 0 if central tile of 5x5 input contains a mine and 1 otherwise. We define perimeter as a set of tiles that have at least one uncovered or marked neighbor.
 
-####Supervised Learning Algorithm
+#### Supervised Learning Algorithm
 1.  begin by probing upper-left corner
 2.  **while** not game over **do**
 3.  &nbsp;&nbsp;&nbsp;&nbsp;**foreach** tile in the perimeter
