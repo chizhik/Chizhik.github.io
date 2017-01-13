@@ -72,15 +72,15 @@ Before testing we trained each of three supervised learning networks on 16x16 bo
 	<img src="/assets/pictures/minesweeper/16x16perf.jpg" alt="Performance on board of size 16 by 16" style="width: 700px;"/>
 </center>
 
-We tested all three SLA Neural Networks on 16x16 boards with different mine numbers . From the line chart above we can see that neural networks with 4 hidden layers (Large-A and Large-B) perform better that network with 3 hidden layers (Small) on boards with low density of mines. However, on boards with high density of mines Small performs better than both Large-A and Large-B. In general, Large-B and Large-A have similar win rates over all mine densities.
+We tested all three SLA Neural Networks on 16x16 boards with different mine numbers . From the line chart above we can see that neural networks with 4 hidden layers (Large-A and Large-B) perform better that network with 3 hidden layers (Small) on boards with low density of mines. However, on boards with high density of mines Small performs better than both Large-A and Large-B. In general, *Large-B and Large-A have similar win rates over all mine densities*.
 
 <center>
 	<img src="/assets/pictures/minesweeper/8x8perf.jpg" alt="Performance on board of size 8 by 8" style="width: 700px;"/>
 </center>
 
-We also tested all three SLA Neural Networks on 8x8 boards with different mine numbers. Small has the highest win rate and Large-A has the lowest win rate over all mine densities. In general, Large-B perform similar to Large-A, however, on boards with moderate density it matches with Small. 
+We also tested all three SLA Neural Networks on 8x8 boards with different mine numbers. Small has the highest win rate and Large-A has the lowest win rate over all mine densities. In general, &Large-B perform similar to Large-A*, however, on boards with moderate density it matches with Small. 
 
-These results were quite surprising; we expected that NNs with more layers will perform better since they have higher complexity. However, more layers take more time to train. That could be a reason of their poor performance. It is also important how NNs are trained. If NN is trained only on boards with low density of mines, it will have very low win rate on boards with high density of mines.
+These results were quite surprising; we expected that NNs with more layers will perform better since they have higher complexity. However, **more layers take more time to train**. That could be a reason of their poor performance. It is also important how NNs are trained. If NN is trained only on boards with low density of mines, it will have very low win rate on boards with high density of mines.
 
 From the table below we can see that both MSLA and solver for MSLA have low win rate compared to our SLA networks. However, it is worth noticing that MSLA approximates its solver quite well. Therefore, solver is the bottleneck for MSLA. This problem could be solved using a better solver to approximate.
 
