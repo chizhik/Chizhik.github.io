@@ -3,7 +3,7 @@ layout: post
 title: Minesweeper solver using NN
 ---
 
-_Alisher Tortay, Oleg Yourchecnko_  
+_Alisher Tortay, Oleg Yurchecnko_  
 KAIST, 2016
 
 ## Abstract
