@@ -65,9 +65,9 @@ Languages
 
 ## Personal Achievements
 
+* **Gold medal** on Asian Pacific Mathematics Olympiad, 2013
 * [**Bronze medal**](https://www.imo-official.org/participant_r.aspx?id=23507&column=year&order=desc&language=en) on International Mathematical Olympiad, Colombia 2013
 * [**Bronze medal**](https://www.imo-official.org/participant_r.aspx?id=23507&column=year&order=desc&language=en) on International Mathematical Olympiad, South Africa 2014
-* **Gold medal** on Asian Pacific Mathematics Olympiad, 2013
 * **3rd place** on KAIST ACM-ICPC Competition, KAIST 2015
 
 ## Major courses
