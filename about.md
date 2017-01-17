@@ -17,7 +17,7 @@ Welcome to my pages! I'm Alisher Tortay. I am currently a junior undergraduate s
 
 * Major: Computer Science; GPA: 3.97/4.30; Total acquired credits: 91
 * Received full-scholarship upon admission to KAIST
-* Member of KAIST International Footbal Club
+* Member of KAIST International Football Club
 
 ## Education
 <table>
