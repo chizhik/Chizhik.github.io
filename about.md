@@ -15,7 +15,9 @@ title: About
 
 Welcome to my pages! I'm Alisher Tortay. I am currently a junior undergraduate student at KAIST. I study Computer Science and Mathematics.
 
-* Major: Computer Science; GPA: 3.97/4.30; Total acquired credits: 91
+* Major: Computer Science
+* Minor in Department of Mathematical Sciences
+* Named to the Dean's List in the College of Engineering
 * Received full-scholarship upon admission to KAIST
 * Member of KAIST International Football Club
 
