@@ -11,7 +11,8 @@ title:            Alisher Tortay
 tagline:          Computer Science student at KAIST
 description:      Computer Science student at KAIST
 #url:              http://hyde.getpoole.com
-url:			  http://alishertortay.me
+#url:			  http://alishertortay.me
+url:              chizhik.github.io
 baseurl:          /
 
 author:
