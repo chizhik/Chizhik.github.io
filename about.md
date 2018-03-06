@@ -17,7 +17,6 @@ Welcome to my pages! I'm Alisher Tortay. I am currently a junior undergraduate s
 
 * Major: Computer Science
 * Minor in Department of Mathematical Sciences
-* Named to the Dean's List in the College of Engineering
 * Received full-scholarship upon admission to KAIST
 * Member of KAIST International Football Club
 
@@ -71,39 +70,7 @@ Languages
 * [**Bronze medal**](https://www.imo-official.org/participant_r.aspx?id=23507&column=year&order=desc&language=en) on International Mathematical Olympiad, Colombia 2013
 * [**Bronze medal**](https://www.imo-official.org/participant_r.aspx?id=23507&column=year&order=desc&language=en) on International Mathematical Olympiad, South Africa 2014
 * **3rd place** on KAIST ACM-ICPC Competition, KAIST 2015
-
-## Major courses
-
-<table>
-	<thead>
-		<tr>
-			<th>Semester</th>
-			<th>Course</th>
-		</tr>
-	</thead>
-	<tbody>
-		<tr>
-			<th>2014 Fall</th>
-			<th>Introduction to Programming, Introduction to Linear Algebra</th>
-		</tr>
-		<tr>
-			<th>2015 Spring</th>
-			<th>Programming Practice, Probability and Statistics, Discrete Mathematics</th>
-		</tr>
-		<tr>
-			<th>2015 Fall</th>
-			<th>Data Structure, Programming Principles, System Programming, Design Project for IT Convergence</th>
-		</tr>
-		<tr>
-			<th>2016 Spring</th>
-			<th>Introduction to Algorithms, Analysis 1, Introduction to Financial Engineering</th>
-		</tr>
-		<tr>
-			<th>2016 Fall</th>
-			<th>Computer Organization, Programming Language, Introduction to Machine Learning, Introduction to Computer Game Technology, Game Theory</th>
-		</tr>
-	</tbody>
-</table>
+* **Dean’s List**, College of Engineering, KAIST 2016
 
 ## Contacts
 email: t.b.alisher@gmail.com
