@@ -164,4 +164,4 @@ We also implemented convenient interface for the game to visualize the process o
 
 Since our MSLA approach is based on the approximation of ‘safe’ probability, one obvious way to improve success rate is to use better solver. For instance, we propose to use the **limited search with probability estimates strategy** (K. Pedersen) as a true oracle. Also, this approach will give us a better insight into situations in which it is potentially impossible to be certain about the true probability of the safe choice. This will prevent the cost function from significant fluctuations and possibly improve and speed up learning process. In addition, we believe that it would be beneficial to try to approximate other probabilistic methods, such as SCP, rejection method (for consistent belief state estimation), MCMC, etc.
 
-Find out more by [visiting the project on GitHub](https://github.com/Chizhik/minesweeper).
+Find out more by [visiting the project on GitHub](https://github.com/chizhik/minesweeper).
