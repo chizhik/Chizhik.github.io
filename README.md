@@ -12,5 +12,3 @@ Run:
 ```
 bundle exec jekyll serve
 ```
-
-Added [mathjax](https://www.mathjax.org/) support following this tutorial: [Using mathjax on GitHub Pages with Jekyll](https://alanduan.me/random/mathjax/).
